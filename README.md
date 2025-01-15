@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Janendra</h1>
+<h1 align="center">Hi 👋, I'm Janendra Chamodi</h1>
 <h3 align="center">An enthusiastic developer exploring various technologies and domains. I am keen on learning, collaborating, and building impactful projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janendra2001&label=Profile%20views&color=0e75b6&style=flat" alt="janendra2001" /> </p>
