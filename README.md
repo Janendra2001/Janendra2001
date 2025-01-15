@@ -99,8 +99,8 @@
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> 
   </a>
   <a href="https://orange.biolab.si/" target="_blank" rel="noreferrer"> 
-    <img src="https://orange.biolab.si/images/orange-logo.png" alt="orange" width="40" height="40"/> 
-  </a> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Orange_logo.svg" alt="orange" width="40" height="40"/> 
+</a>
 </p>
 
 
