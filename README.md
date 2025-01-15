@@ -9,15 +9,13 @@
 
 - 💞️ I’m looking to collaborate on **open source projects, innovative apps, and AI solutions.**
 
-- 📫 How to reach me **janendra2001@example.com** *(Replace with your email)*
-
-- 😄 Pronouns: **He/Him**
+- 📫 How to reach me **apjanendra@gmail.com** *(Replace with your email)*
 
 - ⚡ Fun fact: **I love to solve puzzles and explore new cuisines.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/janendra2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janendra2001" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/janendra-chamodi-8826b7275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janendra2001" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -91,16 +89,10 @@
   </a> 
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/products/indesign.html" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/indesign/indesign-original.svg" alt="indesign" width="40" height="40"/> 
-  </a> 
+  </a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> 
   </a>
-  <a href="https://orange.biolab.si/" target="_blank" rel="noreferrer"> 
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/a/a4/Orange_logo.svg](https://www.google.com/imgres?q=orange%20data%20mining&imgurl=https%3A%2F%2Fyt3.googleusercontent.com%2FuTEZPYOALxJgNBaQlkd9G3V3bStcbfBSkIVN8y9UTBU1Igwo4ZJHM7LE2HlU3TVdA_fTuL-ymA%3Ds160-c-k-c0x00ffffff-no-rj&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUClKKWBe2SCAEyv7ZNGhIe4g&docid=w3FV0WozQe28fM&tbnid=lw73BM07DAygPM&vet=12ahUKEwjqptKlqveKAxXiS2wGHS0AKDgQM3oECBYQAA..i&w=160&h=160&hcb=2&ved=2ahUKEwjqptKlqveKAxXiS2wGHS0AKDgQM3oECBYQAA)" alt="orange" width="40" height="40"/> 
-</a>
 </p>
 
 
