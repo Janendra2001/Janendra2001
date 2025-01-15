@@ -99,7 +99,7 @@
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> 
   </a>
   <a href="https://orange.biolab.si/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Orange_logo.svg" alt="orange" width="40" height="40"/> 
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/a/a4/Orange_logo.svg](https://www.google.com/imgres?q=orange%20data%20mining&imgurl=https%3A%2F%2Fyt3.googleusercontent.com%2FuTEZPYOALxJgNBaQlkd9G3V3bStcbfBSkIVN8y9UTBU1Igwo4ZJHM7LE2HlU3TVdA_fTuL-ymA%3Ds160-c-k-c0x00ffffff-no-rj&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUClKKWBe2SCAEyv7ZNGhIe4g&docid=w3FV0WozQe28fM&tbnid=lw73BM07DAygPM&vet=12ahUKEwjqptKlqveKAxXiS2wGHS0AKDgQM3oECBYQAA..i&w=160&h=160&hcb=2&ved=2ahUKEwjqptKlqveKAxXiS2wGHS0AKDgQM3oECBYQAA)" alt="orange" width="40" height="40"/> 
 </a>
 </p>
 
