@@ -9,7 +9,7 @@
 
 - 💞️ I’m looking to collaborate on **open source projects, innovative apps, and AI solutions.**
 
-- 📫 How to reach me **apjanendra@gmail.com** *(Replace with your email)*
+- 📫 How to reach me **apjanendra@gmail.com**
 
 - ⚡ Fun fact: **I love to solve puzzles and explore new cuisines.**
 
